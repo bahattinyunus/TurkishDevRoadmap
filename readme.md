@@ -1,119 +1,70 @@
 # 🇹🇷 TurkishDevRoadmap
 
-Türkiye şartlarına göre hazırlanmış **yazılımcı yol haritası**.  
-Üniversite okuyan, kendi kendine öğrenen, KPSS düşünen, bootcamp’e bakan herkes için **gerçekçi ve güncel** bir rehber.
+![TurkishDevRoadmap Banner](assets/banner.png)
 
-> “Nereden başlamalıyım?”  
-> “Frontend mi Backend mi?”  
-> “Türkiye’de bu işin yolu ne?”
+> Türkiye'nin yazılımcı geliştirme ekosistemi. **"Nereden başlamalıyım?"** sorusunun cevabı.
 
-Hepsi burada 👇
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](community/CONTRIBUTING.md)
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)](https://github.com/TurkishDevRoadmap)
 
----
-
-## 🎯 Amaç
-
-Bu repo’nun amacı:
-- Yazılıma **Türkiye perspektifiyle** yaklaşmak
-- Türkçe & ücretsiz kaynakları öne çıkarmak
-- Öğrenciler ve junior’lar için **net bir yol** çizmek
-- Open-source kültürünü yaymak 🇹🇷
+Bu repo, Türkiye şartlarına göre özelleştirilmiş, üniversite öğrencilerinden kariyer değiştirmek isteyenlere kadar herkes için rehber niteliğindedir.
 
 ---
 
-## 🧭 Yol Haritaları
+## 🗺️ Yol Haritaları (Roadmaps)
 
-### 👨‍💻 Temel Yazılım
-- Bilgisayar nedir?
-- Linux / Terminal
-- Git & GitHub
-- Algoritma & problem çözme
+Hangi alanda ilerlemek istiyorsun? Tıkla ve detaylı rehbere git.
 
-### 🌐 Frontend Developer
-- HTML / CSS / JavaScript
-- React
-- UI/UX temelleri
-- Türkiye’de kullanılan stack’ler
-
-### 🧠 Backend Developer
-- Python / Java / Node.js
-- REST API
-- Veritabanları (PostgreSQL, MySQL)
-- Authentication / Security
-
-### 🤖 AI & Data
-- Python
-- NumPy / Pandas
-- Machine Learning
-- Yapay Zekâ Türkiye ekosistemi
-
-### 🔐 Siber Güvenlik
-- Network temelleri
-- Linux
-- Web güvenliği
-- CTF & lab kaynakları
-
-### ☁️ DevOps
-- Docker
-- CI/CD
-- Linux Server
-- Cloud (AWS, GCP, Azure – giriş seviyesi)
+| Alan | Açıklama |
+| :--- | :--- |
+| **[👨‍💻 Temel Yazılım](./roadmaps/fundamental.md)** | Bilgisayar bilimleri, Git, Linux, Algoritma. Herkes buradan başlamalı. |
+| **[🌐 Frontend Developer](./roadmaps/frontend.md)** | Web sitelerinin arayüzü. HTML, CSS, JS, React. |
+| **[🧠 Backend Developer](./roadmaps/backend.md)** | Sunucu tarafı, API'lar, Veritabanları. Node.js, Java, .NET. |
+| **[📱 Mobile Developer](./roadmaps/mobile.md)** | iOS ve Android dünyası. Flutter, React Native, Kotlin, Swift. |
+| **[🎮 Game Developer](./roadmaps/game-development.md)** | Oyun geliştirme. Unity, Unreal Engine. |
+| **[🔌 Embedded Systems](./roadmaps/embedded.md)** | Gömülü sistemler, IoT, Savunma Sanayi. Arduino, STM32. |
+| **[🤖 AI & Data](./roadmaps/ai-data.md)** | Yapay Zeka, Veri Bilimi, Machine Learning. Python öncelikli. |
+| **[🔐 Siber Güvenlik](./roadmaps/cyber-security.md)** | Hacker kültürü, savunma ve saldırı teknikleri. |
+| **[☁️ DevOps](./roadmaps/devops.md)** | Docker, Kubernetes, CI/CD süreçleri. |
 
 ---
 
-## 📚 Kaynaklar (Türkçe Odaklı)
+## 💼 Kariyer & Projeler 🚀
 
-- 🎥 YouTube kanalları
-- 📖 Bloglar & Medium yazıları
-- 🧪 Pratik yapılacak siteler
-- 🧑‍💻 PR atılabilecek Türkçe GitHub repoları
+Sadece öğrenmek yetmez, işe girmek gerek!
 
-> Türkçe içerik = erişilebilirlik 💙
-
----
-
-## 🎓 Türkiye Gerçeği
-
-Bu repo şunları da dikkate alır:
-- Üniversite müfredatları
-- KPSS & memuriyet düşünenler
-- Bootcamp vs. self-study karşılaştırması
-- Türkiye’de junior iş bulma süreci
+- **[� CV Hazırlama Tüyoları](./career/cv-tips.md)** - IK'nın çöpe atmayacağı CV nasıl olur?
+- **[🎤 Mülakat Soruları](./career/interview-questions.md)** - Teknik mülakatlarda neler sorulur?
+- **[💡 Proje Fikirleri](./projects/ideas.md)** - "Ne yapsam?" diyenlere GitHub dolduracak fikirler.
 
 ---
 
-## 🤝 Katkı Sağla (CONTRIBUTING)
+## �📚 Kaynaklar
 
-Katkılar **sonuna kadar açık** 🔥
+Sadece Türkçe ve kaliteli içerikler.
 
-Yapabileceklerin:
-- Yeni kaynak eklemek
-- Roadmap geliştirmek
-- Yazım hatası düzeltmek
-- Yeni alan eklemek (GameDev, Mobile, Embedded vs.)
-
-### Nasıl?
-1. Fork’la 🍴
-2. Branch aç 🌱
-3. Değişikliği yap ✍️
-4. PR gönder 🚀
+- [🎥 **YouTube Kanalları**](./resources/youtube-channels.md) - En iyi eğitmenler.
+- [📖 **Bloglar & Okumalar**](./resources/blogs.md) - Makaleler ve e-kitaplar.
+- [🤝 **Topluluklar**](./resources/communities.md) - Discord, Telegram grupları.
 
 ---
 
-## ⭐ Destek Ol
+## 🎯 Bu Repo Neden Var?
+Globalde [roadmap.sh](https://roadmap.sh) gibi harika kaynaklar var. Ancak:
+1. Kaynakların çoğu İngilizce.
+2. Türkiye'nin iş piyasası dinamikleri farklı (Örn: .NET'in yaygınlığı).
+3. Öğrenciler için "nereden iş bulurum, staj yaparım" sorusunun cevabı yerel.
 
-Bu repo işine yaradıysa:
-- ⭐ Star at
-- 🔁 Paylaş
-- 🤝 Katkı yap
-
-Unutma: **Bilgi paylaştıkça büyür.**
+Bu yüzden **TurkishDevRoadmap**, global standartları yerel gerçeklerle birleştirir.
 
 ---
 
-## 📌 Not
+## 🤝 Katkıda Bulun (Contribute)
+Bu proje hepimizin! Eksik gördüğünüz bir kaynak mı var? Hemen ekleyin.
 
-Bu repo yaşayan bir projedir.  
-Tek bir kişinin değil, **Türk developer topluluğunun** yol haritası olmayı hedefler.
+1. [CONTRIBUTING.md](./community/CONTRIBUTING.md) dosyasını okuyun.
+2. Fork'layın, eklemenizi yapın.
+3. PR gönderin, listeye adınızı yazdıralım!
 
-> Birlikte öğreniyoruz, birlikte yükseliyoruz 🚀🇹🇷
+> "Bilgi paylaştıkça çoğalır." 💙
