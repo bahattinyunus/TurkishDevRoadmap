@@ -2,8 +2,8 @@
 
 ![TurkishDevRoadmap Banner](assets/banner.png)
 
-> **Türkiye'nin en kapsamlı, açık kaynaklı yazılımcı yol haritası ve kariyer rehberi.**  
-> *"Nereden başlamalıyım?" sorusunun cevabı.*
+> **Türkiye'nin En Kapsamlı ve İnteraktif Yazılımcı Yol Haritası**  
+> *"Sıfırdan Sektörün Aradığı Uzman Olmaya Giden Yol"*
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](community/CONTRIBUTING.md)
@@ -12,104 +12,75 @@
 
 ---
 
-## 🎯 Bu Repo Kimler İçin?
+## 🚀 Vizyonumuz
+Bu repo, sadece "hangi teknolojileri öğrenmeliyim" sorusuna cevap vermez; aynı zamanda **"nasıl öğrenmeliyim"**, **"nasıl mülakata girmeliyim"** ve **"nasıl profesyonel olurum"** sorularına da rehberlik eder.
 
-Bu repo, yazılım dünyasına girmek isteyen veya kendini geliştirmek isteyen **herkes** içindir:
-
-- 🎓 **Üniversite Öğrencileri**: Okulda teoriyi öğrenen ama sektörde neyin kullanıldığını merak edenler.
-- 🔄 **Kariyer Değiştirenler**: Başka bir meslekten gelip yazılımcı olmak isteyenler.
-- 🚀 **Junior Geliştiriciler**: Bir işe girmiş ama "sırada ne var?" diyenler.
-- 🇹🇷 **Yerli İmkanları Arayanlar**: İngilizce kaynaklarda kaybolup "Türkiye'de işler nasıl yürüyor?" sorusunu soranlar.
+Ezberci eğitim yerine, **proje tabanlı**, **seviye odaklı (Junior-Mid-Senior)** ve **kariyer hedefli** bir yaklaşım sunuyoruz.
 
 ---
 
-## 🗺️ Yol Haritaları (Roadmaps)
+## 🧭 Yol Haritaları (Roadmaps)
 
-Hangi alanda uzmanlaşmak istiyorsanız, o alanın detaylı rehberine tıklayın.
+Hedefinize uygun yolu seçin ve maceraya başlayın! Her harita **Başlangıç**, **Orta** ve **İleri** seviye olarak detaylandırılmıştır.
 
 ### 🏗️ Temel & Web Geliştirme
-| Alan | Kimler Seçmeli? | Link |
-| :--- | :--- | :--- |
-| **Temel Yazılım** | Yazılıma yeni başlayan herkes. | [👨‍💻 Git](./roadmaps/fundamental.md) |
-| **Frontend** | Tasarımı koda dökmeyi, görsel işleri sevenler. | [🌐 Git](./roadmaps/frontend.md) |
-| **Backend** | Veriyle uğraşmayı, sistemin arkasını kurmayı sevenler. | [🧠 Git](./roadmaps/backend.md) |
+| Alan | Kimler İçin? | Durum | Link |
+| :--- | :--- | :---: | :--- |
+| **Temel Yazılım** | Kodlamaya sıfırdan başlayan herkes. **İlk durak burası!** | 🟢 | [👨‍💻 Git](./roadmaps/fundamental.md) |
+| **Frontend** | Tasarımı koda döken, kullanıcı deneyimi mimarları. | 🟢 | [🌐 Git](./roadmaps/frontend.md) |
+| **Backend** | Veri, sunucu, API ve sistem mimarisi sevdalıları. | 🟢 | [🧠 Git](./roadmaps/backend.md) |
+| **Fullstack** | "Ben tek başıma dev bir orduyum" diyenler. | 🟡 | [🔥 Git](./roadmaps/fullstack.md) |
 
 ### 📱 Mobil & Oyun & Sistem
-| Alan | Kimler Seçmeli? | Link |
-| :--- | :--- | :--- |
-| **Mobile** | Cebimizdeki uygulamaları geliştirmek isteyenler. | [📱 Git](./roadmaps/mobile.md) |
-| **Game Dev** | Hayal dünyasını oyuna dönüştürmek isteyenler. | [🎮 Git](./roadmaps/game-development.md) |
-| **Embedded** | Donanımla yazılımı buluşturmak (IoT, Robotik) isteyenler. | [🔌 Git](./roadmaps/embedded.md) |
+| Alan | Kimler İçin? | Durum | Link |
+| :--- | :--- | :---: | :--- |
+| **Mobile** | iOS ve Android dünyasında uygulama geliştirmek isteyenler. | 🟢 | [📱 Git](./roadmaps/mobile.md) |
+| **Game Dev** | Hayal dünyasını oynanabilir sanata dönüştürenler. | 🟢 | [🎮 Git](./roadmaps/game-development.md) |
+| **Embedded** | Donanımla yazılımı buluşturan IoT ve Robotik tutkunları. | 🟡 | [🔌 Git](./roadmaps/embedded.md) |
 
-### 🚀 İleri Seviye & Uzmanlık
-| Alan | Kimler Seçmeli? | Link |
-| :--- | :--- | :--- |
-| **AI & Data** | Veriden değer üretmek, yapay zeka geliştirmek isteyenler. | [🤖 Git](./roadmaps/ai-data.md) |
-| **Siber Güvenlik**| Sistemleri korumak veya (etik) hacklemek isteyenler. | [🔐 Git](./roadmaps/cyber-security.md) |
-| **DevOps** | Yazılım ile sunucu süreçlerini otomatize etmek isteyenler. | [☁️ Git](./roadmaps/devops.md) |
-| **Blockchain** | Merkeziyetsiz web (Web3) dünyasına girmek isteyenler. (YENİ) | [⛓️ Git](./roadmaps/blockchain.md) |
-| **QA & Test** | Hata avcıları ve yazılım kalitesini önemseyenler. (YENİ) | [🧪 Git](./roadmaps/qa-testing.md) |
-
----
-
-## 💼 Kariyer Merkezi & Soft Skills 🚀
-
-Sadece kod yazmak yetmez, iş dünyasında hayatta kalmak gerek!
-
-- **[🇬🇧 English for Devs](./career/english-for-devs.md)** - "İngilizcem yok, olur mu?" diyenlere özel rehber.
-- **[📝 CV Hazırlama Tüyoları](./career/cv-tips.md)** - IK'nın dikkatini çeken, çöpe atılmayan CV hazırlama sanatı.
-- **[🎤 Teknik Mülakat Soruları](./career/interview-questions.md)** - "Bize kendinden bahset"ten "SOLID nedir?"e kadar her şey.
-- **[🏠 Remote Çalışma Rehberi](./career/remote-work.md)** - Türkiye'de yaşayıp Döviz kazanmanın yolları.
-- **[🧠 Soft Skills](./career/soft-skills.md)** - İletişim, Takım Çalışması ve Agile kültürü.
-- **[💡 Proje Fikirleri](./projects/ideas.md)** - GitHub portfolyonuzu dolduracak, işe aldıracak proje önerileri.
+### 🚀 İleri Uzmanlık & Geleceğin Teknolojileri
+| Alan | Kimler İçin? | Durum | Link |
+| :--- | :--- | :---: | :--- |
+| **AI & ML** | Yapay zeka, veri bilimi ve LLM dünyasına giriş. | 🔴 | [🤖 Git](./roadmaps/ai-data.md) |
+| **Siber Güvenlik**| Sistemleri koruyan (Blue Team) veya test eden (Red Team) uzmanlar. | 🔴 | [🔐 Git](./roadmaps/cyber-security.md) |
+| **DevOps** | CI/CD, Cloud ve Altyapı süreçlerinin efendileri. | 🔴 | [☁️ Git](./roadmaps/devops.md) |
+| **Blockchain** | Web3, DeFi ve Smart Contract geliştiricileri. | 🔴 | [⛓️ Git](./roadmaps/blockchain.md) |
+| **QA & Test** | Yazılım kalitesini garanti altına alan hata avcıları. | 🟡 | [🧪 Git](./roadmaps/qa-testing.md) |
 
 ---
 
-## ❓ Sıkça Sorulan Sorular (SSS)
+## 💼 Kariyer Merkezi & Soft Skills
+Teknik bilgi işe girmenizi sağlar, **Soft Skills** ise yükselmenizi!
 
-<details>
-<summary><strong>1. Üniversite diploması şart mı?</strong></summary>
-Hayır, şart değil. Ancak üniversite size mühendislik formasyonu ve network kazandırır. Diplomasızsanız daha çok proje göstererek kendinizi kanıtlamalısınız.
-</details>
-
-<details>
-<summary><strong>2. Hangi dille başlamalıyım?</strong></summary>
-Mantığı kavramak için <strong>Python</strong> en kolayıdır. Web istiyorsanız <strong>JavaScript</strong> şarttır. Kurumsal hedefliyorsanız <strong>Java/C#</strong> iyidir.
-</details>
-
-<details>
-<summary><strong>3. Matematik ne kadar lazım?</strong></summary>
-Yapay Zeka ve Oyun Geliştirme hariç ileri düzey matematik (İntegral, Türev) nadiren gerekir. Ancak analitik düşünme ve temel matematik şarttır.
-</details>
-
-<details>
-<summary><strong>4. İngilizce bilmek zorunda mıyım?</strong></summary>
-Başlangıç için Türkçe kaynaklar yeterlidir (bu repo gibi!). Ancak ileri seviye uzmanlaşmak ve dünyayı takip etmek için Teknik İngilizce (Okuma) şarttır.
-</details>
+*   **[💰 Freelancing Rehberi](./career/freelancing.md)** - Upwork, Bionluk ve kendi işini kurma tüyoları. *(Yeni)*
+*   **[📢 Kişisel Markalaşma](./career/linkedin-personal-branding.md)** - LinkedIn ve GitHub profilinizi nasıl parlatırsınız? *(Yeni)*
+*   **[🇬🇧 English for Devs](./career/english-for-devs.md)** - Yazılımcılar için İngilizce öğrenme taktikleri.
+*   **[📝 CV Hazırlama](./career/cv-tips.md)** - IK'nın dikkatini çeken CV örnekleri.
+*   **[🎤 Mülakat Soruları](./career/interview-questions.md)** - Teknik ve davranışsal mülakatlara hazırlık.
+*   **[💡 Proje Fikirleri](./projects/ideas.md)** - Portfolyo dolduracak başlangıç ve ileri seviye projeler.
+*   **[🌍 Gerçek Hayat Senaryoları](./projects/real-world-scenarios.md)** - E-Ticaret, SaaS gibi kompleks sistem mimarileri. *(Yeni)*
 
 ---
 
-## 📚 Kaynaklar
+## ❓ Nereden Başlamalıyım?
 
-Sadece Türkçe ve özenle seçilmiş kaliteli içerikler.
-
-- **[🎥 YouTube Kanalları](./resources/youtube-channels.md)**: Türkiye'nin en iyi yazılım eğitmenleri.
-- **[📖 Bloglar & Okumalar](./resources/blogs.md)**: Tecrübe aktarımı yapan bloglar.
-- **[🤝 Topluluklar](./resources/communities.md)**: Yalnız kalma! Discord ve Telegram gruplarına katıl.
+1.  **Hiç kod bilmiyorsan:** [Temel Yazılım (Fundamentals)](./roadmaps/fundamental.md) ile başla. Buradaki kavramlar her alan için şarttır.
+2.  **Web istiyorsan:** HTML/CSS/JS öğrenmek için [Frontend](./roadmaps/frontend.md)'e geç.
+3.  **Mobil istiyorsan:** [Mobile](./roadmaps/mobile.md) yol haritasında Native veya Cross-platform seçimi yap.
+4.  **Veri ile uğraşmak istiyorsan:** Python öğren ve [AI & Data](./roadmaps/ai-data.md)'ya ışınlan.
 
 ---
 
 ## 🤝 Katkıda Bulun (Contribute)
 
-Bu proje, imece usulü büyüyen bir **topluluk projesidir**.
-Eksik bir kaynak mı gördün? Bir hata mı buldun?
+Bu proje topluluk gücüyle büyüyor!  
+Eksik bir kaynak mı gördün? Bir önerin mi var?
 
-1. `CONTRIBUTING.md` dosyasını oku.
-2. Repoyu Fork'la.
-3. Düzenlemeni yap ve Pull Request (PR) gönder.
-4. Adını katkıda bulunanlar listesine yazdıralım! 🎉
+1.  Repoyu sağ üstten **Fork**'la 🍴
+2.  Bilgilerini ekle veya düzelt ✏️
+3.  Bize **Pull Request (PR)** gönder 🚀
 
-> **"Bilgi paylaştıkça çoğalır."** 💙
+> *"Bilgi paylaştıkça çoğalır."* 💙
 
 ---
 
