@@ -29,23 +29,23 @@ Hedefinize uygun yolu seçin ve maceraya başlayın! Her harita **Başlangıç**
 | **Temel Yazılım** | Kodlamaya sıfırdan başlayan herkes. **İlk durak burası!** | 🟢 | [👨‍💻 Git](./roadmaps/fundamental.md) |
 | **Frontend** | Tasarımı koda döken, kullanıcı deneyimi mimarları. | 🟢 | [🌐 Git](./roadmaps/frontend.md) |
 | **Backend** | Veri, sunucu, API ve sistem mimarisi sevdalıları. | 🟢 | [🧠 Git](./roadmaps/backend.md) |
-| **Fullstack** | "Ben tek başıma dev bir orduyum" diyenler. | 🟡 | [🔥 Git](./roadmaps/fullstack.md) |
+| **Fullstack** | "Ben tek başıma dev bir orduyum" diyenler. | 🟢 | [🔥 Git](./roadmaps/fullstack.md) |
 
 ### 📱 Mobil & Oyun & Sistem
 | Alan | Kimler İçin? | Durum | Link |
 | :--- | :--- | :---: | :--- |
 | **Mobile** | iOS ve Android dünyasında uygulama geliştirmek isteyenler. | 🟢 | [📱 Git](./roadmaps/mobile.md) |
 | **Game Dev** | Hayal dünyasını oynanabilir sanata dönüştürenler. | 🟢 | [🎮 Git](./roadmaps/game-development.md) |
-| **Embedded** | Donanımla yazılımı buluşturan IoT ve Robotik tutkunları. | 🟡 | [🔌 Git](./roadmaps/embedded.md) |
+| **Embedded** | Donanımla yazılımı buluşturan IoT ve Robotik tutkunları. | 🟢 | [🔌 Git](./roadmaps/embedded.md) |
 
 ### 🚀 İleri Uzmanlık & Geleceğin Teknolojileri
 | Alan | Kimler İçin? | Durum | Link |
 | :--- | :--- | :---: | :--- |
-| **AI & ML** | Yapay zeka, veri bilimi ve LLM dünyasına giriş. | 🔴 | [🤖 Git](./roadmaps/ai-data.md) |
-| **Siber Güvenlik**| Sistemleri koruyan (Blue Team) veya test eden (Red Team) uzmanlar. | 🔴 | [🔐 Git](./roadmaps/cyber-security.md) |
-| **DevOps** | CI/CD, Cloud ve Altyapı süreçlerinin efendileri. | 🔴 | [☁️ Git](./roadmaps/devops.md) |
-| **Blockchain** | Web3, DeFi ve Smart Contract geliştiricileri. | 🔴 | [⛓️ Git](./roadmaps/blockchain.md) |
-| **QA & Test** | Yazılım kalitesini garanti altına alan hata avcıları. | 🟡 | [🧪 Git](./roadmaps/qa-testing.md) |
+| **AI & ML** | Yapay zeka, veri bilimi ve LLM dünyasına giriş. | 🟢 | [🤖 Git](./roadmaps/ai-data.md) |
+| **Siber Güvenlik**| Sistemleri koruyan (Blue Team) veya test eden (Red Team) uzmanlar. | 🟢 | [🔐 Git](./roadmaps/cyber-security.md) |
+| **DevOps** | CI/CD, Cloud ve Altyapı süreçlerinin efendileri. | 🟢 | [☁️ Git](./roadmaps/devops.md) |
+| **Blockchain** | Web3, DeFi ve Smart Contract geliştiricileri. | 🟢 | [⛓️ Git](./roadmaps/blockchain.md) |
+| **QA & Test** | Yazılım kalitesini garanti altına alan hata avcıları. | 🟢 | [🧪 Git](./roadmaps/qa-testing.md) |
 
 ---
 
